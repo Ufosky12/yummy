@@ -1,0 +1,25 @@
+.navbar{display: flex; justify-content: space-between;align-items: center;}
+.img{ width: 150px;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 30px;}
+.link{
+    text-decoration: none;
+    background-color: blue;
+    color:white;
+    padding: 15px;
+    border-radius: 250px;
+}
+.link:hover{background-color: yellow;color: blue;}
+.navlist{list-style-type: none;text-decoration: none;}
+.navlist li{
+    float:left;
+    margin: 0px 10px 0px 10px;
+    
+}.navlist a{text-decoration: none;
+    color: white;
+
+}
+.header1{
+    background-color: purple;
+}

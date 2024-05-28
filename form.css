@@ -1,0 +1,28 @@
+body{
+    background-color: pink;
+}.diva{
+    width:35%;
+    align-self: center;
+    background-color: white;
+    margin: auto;
+    padding: 30px;
+}.diva h1{
+    text-align: center;
+}.diva input{
+    padding: 10px 0px 10px 10px;
+    width: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}.diva a{ margin-top: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 60px;
+    text-decoration: none;
+}.diva a:hover{
+    color: black;
+    background-color: gray;
+    border-radius: 60px;
+    padding: 10px 15px 10px 15px;
+}
